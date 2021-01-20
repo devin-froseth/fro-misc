@@ -3,7 +3,7 @@ import datetime
 import re
 
 # Target file name (located in the ./input folder)
-target_file = 'data_trump admin_116_2'
+target_file = 'data_trump admin'
 
 # Title of the column in which to filter results ('description' or 'title')
 col_title = 'title'
